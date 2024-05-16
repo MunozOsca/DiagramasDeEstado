@@ -23,7 +23,7 @@ p{
 <br><br><br><br><br>
 
 <p>Participantes: Pablo Alcalá-Zamora Bermúdez, Ignacio de Loyola Diaz  <br>
-Jímenez Manuel Torres Alcázar
+Jímenez Manuel Torres Alcázar, Francisco Javier Arrabal Ordoñez y Óscar Muñoz Molinero
 
 ASIGNATURA: Entornos de Desarrollo.
 
